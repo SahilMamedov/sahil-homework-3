@@ -1,0 +1,16 @@
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\bin\Debug\net5.0\task-kompy.exe
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\bin\Debug\net5.0\task-kompy.deps.json
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\bin\Debug\net5.0\task-kompy.runtimeconfig.json
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\bin\Debug\net5.0\task-kompy.runtimeconfig.dev.json
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\bin\Debug\net5.0\task-kompy.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\bin\Debug\net5.0\ref\task-kompy.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\bin\Debug\net5.0\task-kompy.pdb
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.csproj.AssemblyReference.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.AssemblyInfoInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.AssemblyInfo.cs
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\ref\task-kompy.dll
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.pdb
+C:\Users\Sahil\Desktop\Classroom1\classroom2\task-kompy\task-kompy\obj\Debug\net5.0\task-kompy.genruntimeconfig.cache
