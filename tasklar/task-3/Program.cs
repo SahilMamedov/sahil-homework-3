@@ -15,6 +15,9 @@ namespace task_3
 
             toplama(eded);
 
+          // 2ci hell usulu  toplama(6, 7, 8);
+
+            //    Console.WriteLine(toplama(6, 7, 8));
         }
 
         static int toplama(int[] eded)
@@ -31,11 +34,9 @@ namespace task_3
             Console.WriteLine($"sum-----{result}");
             return result;
 
+
             //2 - ci hell usulu
 
-            //    toplama(6, 7, 8);
-
-            //    Console.WriteLine(toplama(6, 7, 8));
 
             //}
 
