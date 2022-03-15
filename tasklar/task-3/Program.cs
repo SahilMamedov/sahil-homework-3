@@ -21,9 +21,9 @@ namespace task_3
 
             Console.WriteLine(toplama(6, 7, 8));
         }
-        static int toplama(int result, params int[] eded)
+        static int toplama(params int[] eded)
         {
-
+            int result = 0;
             for (int i = 0; i < eded.Length; i++)
             {
 
@@ -33,25 +33,25 @@ namespace task_3
             Console.WriteLine(result);
             return result;
 
+
+            //static int toplama(int[] eded)
+            //{
+
+            //    int result = 0;
+            //    for (int i = 0; i < eded.Length; i++)
+            //    {
+            //        Console.Write((i + 1).ToString() + ".Ededi daxil edin: ");
+            //        eded[i] = Convert.ToInt32(Console.ReadLine());
+            //        result += eded[i];
+
+            //    }
+            //    Console.WriteLine($"sum-----{result}");
+            //    return result;
+
+
+            //}
+
+
         }
-
-        //static int toplama(int[] eded)
-        //{
-
-        //    int result = 0;
-        //    for (int i = 0; i < eded.Length; i++)
-        //    {
-        //        Console.Write((i + 1).ToString() + ".Ededi daxil edin: ");
-        //        eded[i] = Convert.ToInt32(Console.ReadLine());
-        //        result += eded[i];
-
-        //    }
-        //    Console.WriteLine($"sum-----{result}");
-        //    return result;
-
-
-        //}
- 
-        
     }
 }
